@@ -112,7 +112,7 @@ function Navbar() {
               <button class="relative flex rounded-full focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">
                 <span class="absolute -inset-1.5"></span>
                 <span class="sr-only">Open user menu</span>
-                <p class="to-white">E/H</p>
+                <p>E/H</p>
               </button>
 
               <el-menu
